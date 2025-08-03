@@ -1,14 +1,11 @@
 # Professional-statement
-I am a dedicated IT professional with expertise in database management, cloud technologies, and cybersecurity, currently pursuing 
-an MSc in Communications and Data Science at Aalto University. My core strengths include advanced database administration with PL/SQL 
-and Oracle APEX, proficiency in multiple programming languages including Python, Java, and JavaScript, and extensive experience with 
-both Windows and Linux environments that demonstrates my versatility across diverse IT ecosystems.
-My professional values center on protecting organizational assets through robust security practices and ensuring optimal system performance 
-that enables business continuity. I am committed to maintaining the highest standards of data integrity and implementing security measures 
-that safeguard both technical infrastructure and user privacy.
-What most excites me about cybersecurity is the dynamic challenge of staying ahead of evolving threats while building resilient systems 
-that protect organizations and their stakeholders. My hands-on experience monitoring web applications for security breaches, 
-conducting system audits, and managing secure server environments has reinforced my passion for creating comprehensive security solutions.
-My technical expertise in database management, cloud platforms like Microsoft Azure, and cross-platform system administration, 
-combined with my commitment to continuous learning and security excellence, positions me to contribute meaningfully to organizations 
-seeking to strengthen their cybersecurity posture while maintaining operational efficiency.
+I am a highly motivated and detail-oriented IT professional with a strong focus on cybersecurity and system administration. 
+I actively work to identify and analyze potential security vulnerabilities across web applications, network systems, and 
+database infrastructures while ensuring optimal performance and availability of critical assets. My experience spans monitoring security breaches, 
+conducting system audits, and managing secure server environments to help safeguard organizations and their stakeholders.
+I am enthusiastic about leveraging my expertise in database management, cloud technologies, and cross-platform systems—including both 
+Windows and Linux environments—to find comprehensive solutions that positively impact organizations and the people they serve. 
+I place a high value on maintaining robust security practices, from developing secure PL/SQL databases and Oracle APEX applications to implementing data integration processes that protect sensitive information and mitigate operational risks.
+My versatility across programming languages, database systems, and cloud platforms like Microsoft Azure, combined with my hands-on experience 
+in web security and infrastructure management, positions me to contribute meaningfully to organizations seeking to strengthen 
+their cybersecurity posture while ensuring business continuity and operational excellence.
